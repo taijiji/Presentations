@@ -19,6 +19,9 @@ Taiji Tsuchiya's Presentations
 
 ## 2012
 
-- [SDN作ってみました BIGLOBEからみたSDNへの期待と課題 / Self-developed SDN](http://www.sdnjapan.org/archive/2012/material-SDN_Japan_2012/6th-panel2/tsuchiya2.pdf) at [SDN Japan 2012](http://www.sdnjapan.org/archive/2012/1206.html), 2012/12/7
-- [買い手からみたSDNへの期待と課題 / Operator's expectations and challenges for SDN](http://www.sdnjapan.org/archive/2012/material-SDN_Japan_2012/6th-panel2/tsuchiya1.pdf)
-at [SDN Japan 2012](http://www.sdnjapan.org/archive/2012/1206.html), 2012/12/7
+- [SDN作ってみました BIGLOBEからみたSDNへの期待と課題](http://www.sdnjapan.org/archive/2012/1206.html] (BIGLOBE Self-developed SDN) at [SDN Japan 2012](http://www.sdnjapan.org/archive/2012/index.html), 2012/12/7
+  - [Slide](http://www.sdnjapan.org/archive/2012/material-SDN_Japan_2012/6th-panel2/tsuchiya2.pdf ), [Movie](https://www.youtube.com/watch?v=oAmUakVfmr4)
+
+- [買い手からみたSDNへの期待と課題](http://www.sdnjapan.org/archive/2012/1206.html) (Operator's expectations and challenges for SDN)
+at [SDN Japan 2012](http://www.sdnjapan.org/archive/2012/index.html), 2012/12/7
+  - [Slide](http://www.sdnjapan.org/archive/2012/material-SDN_Japan_2012/6th-panel2/tsuchiya1.pdf), [Movie](https://www.youtube.com/watch?v=oAmUakVfmr4)
