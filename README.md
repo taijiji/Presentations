@@ -2,6 +2,12 @@
 Taiji Tsuchiya's Presentations
 
 ## 2018
+- [明日からはじめるネットワーク運用自動化](https://www.janog.gr.jp/meeting/janog41/program/auto) / [Let's get started Network Automation from tomorrow!](https://www.janog.gr.jp/meeting/janog41/en/program/auto) at [JANOG 41](https://www.janog.gr.jp/meeting/janog41/), 2018/1/25
+  - [Slide](https://speakerdeck.com/taijijiji/lets-get-started-network-automation-from-tomorrow)
+- [ネットワーク運用自動化BoF](https://www.janog.gr.jp/meeting/janog41/bof/netopscoding) / Network Automation BoF at  [JANOG 41](https://www.janog.gr.jp/meeting/janog41/) online presentation, 2018/1/24
+- [明日からはじめるネットワーク運用自動化　始動編](https://www.janog.gr.jp/meeting/janog41/program/autoprep) at [JANOG 41](https://www.janog.gr.jp/meeting/janog41/) online presentation, 2018/1/9
+  - [Slide](https://www.janog.gr.jp/meeting/janog41/application/files/1715/1572/1618/janog41-autoprep-taiji-03.pdf), [Movie](https://cisco.webex.com/ciscosales-jp/lsr.php?RCID=98385bb3c72e44b1b5226aee6155e676) ( Password: PupU6EN6 )
+
 ## 2017
 ## 2016
 ## 2015
