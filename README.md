@@ -9,6 +9,9 @@ Taiji Tsuchiya's Presentations
   - [Slide](https://www.janog.gr.jp/meeting/janog41/application/files/1715/1572/1618/janog41-autoprep-taiji-03.pdf), [Movie](https://cisco.webex.com/ciscosales-jp/lsr.php?RCID=98385bb3c72e44b1b5226aee6155e676) ( Password: PupU6EN6 )
 
 ## 2017
+- Introduction of NetOpsCoding at [NetOpsCoding#5 & npstudy#13](https://network-programmability.connpass.com/event/67156/), 2017/10/10
+ - [Slide](https://www.slideshare.net/taijitsuchiya5/netopscoding5-introduction?ref=https://network-programmability.connpass.com/event/67156/presentation/)
+
 ## 2016
 ## 2015
 
