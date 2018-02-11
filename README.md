@@ -2,18 +2,46 @@
 Taiji Tsuchiya's Presentations
 
 ## 2018
-- [明日からはじめるネットワーク運用自動化](https://www.janog.gr.jp/meeting/janog41/program/auto) / [Let's get started Network Automation from tomorrow!](https://www.janog.gr.jp/meeting/janog41/en/program/auto) at [JANOG 41](https://www.janog.gr.jp/meeting/janog41/), 2018/1/25
+### [JANOG41 Meeting](https://www.janog.gr.jp/meeting/janog41/), 2018/1/24-26
+- [明日からはじめるネットワーク運用自動化](https://www.janog.gr.jp/meeting/janog41/program/auto) / [Let's get started Network Automation from tomorrow!](https://www.janog.gr.jp/meeting/janog41/en/program/auto)
   - [Slide](https://speakerdeck.com/taijijiji/lets-get-started-network-automation-from-tomorrow)
-- [ネットワーク運用自動化BoF](https://www.janog.gr.jp/meeting/janog41/bof/netopscoding) / Network Automation BoF at  [JANOG 41](https://www.janog.gr.jp/meeting/janog41/) online presentation, 2018/1/24
-- [明日からはじめるネットワーク運用自動化　始動編](https://www.janog.gr.jp/meeting/janog41/program/autoprep) at [JANOG 41](https://www.janog.gr.jp/meeting/janog41/) online presentation, 2018/1/9
+- [ネットワーク運用自動化BoF](https://www.janog.gr.jp/meeting/janog41/bof/netopscoding) / Network Automation BoF
+- [明日からはじめるネットワーク運用自動化 始動編](https://www.janog.gr.jp/meeting/janog41/program/autoprep) / Let's get started Network Automation from tomorrow! Bootstrap
   - [Slide](https://www.janog.gr.jp/meeting/janog41/application/files/1715/1572/1618/janog41-autoprep-taiji-03.pdf), [Movie](https://cisco.webex.com/ciscosales-jp/lsr.php?RCID=98385bb3c72e44b1b5226aee6155e676) ( Password: PupU6EN6 )
 
 ## 2017
-- Introduction of NetOpsCoding at [NetOpsCoding#5 & npstudy#13](https://network-programmability.connpass.com/event/67156/), 2017/10/10
- - [Slide](https://www.slideshare.net/taijitsuchiya5/netopscoding5-introduction?ref=https://network-programmability.connpass.com/event/67156/presentation/)
+### [NetOpsCoding#5 & npstudy#13](https://network-programmability.connpass.com/event/67156/), 2017/10/10
+- Introduction of NetOpsCoding
+  - [Slide](https://www.slideshare.net/taijitsuchiya5/netopscoding5-introduction?ref=https://network-programmability.connpass.com/event/67156/presentation/)
 
 ## 2016
+### Juniper Cloud Builder Community, 2016/12/1
+- JSNAPyとPyEZでつくる次世代ネットワークオペレーションの可能性 / Next Generation of Network Operation by uning Juniper JSNAPY and PyEZ
+  - [Slide](http://www.slideshare.net/taijitsuchiya5/jsnapypyez)
+### [NetOpsCoding#4](https://atnd.org/events/82204), 2016/10/27
+- Introduction of NetOpsCoding
+
+### [NetOpsCoding#3](https://atnd.org/events/78025), 2016/6/27
+- Introduction of NetOpsCoding
+  - [Slide](https://www.slideshare.net/taijitsuchiya5/introduction-to-netopscoding3)
+- ネットワーク運用自動化の実際 ~現場で使われているツールを調査してみた~ / Survey tools and methods for Network Automation
+  - [Slide](https://www.slideshare.net/taijitsuchiya5/ss-63478739)
+
+### [NetOpsCoding#2](https://atnd.org/events/74772), 2016/3/4
+- Introduction of NetOpsCoding
+  - [Slide](https://www.slideshare.net/taijitsuchiya5/introduction-to-netopscoding2)
+
+### The class of Doshina University, 2016/1/6
+- インターネットの舞台裏 / Back stage of the internet
+  - [Slide](https://www.slideshare.net/taijitsuchiya5/ss-56728468)
+
+
 ## 2015
+### [NetOpsCoding#1](https://atnd.org/events/74772), 2015/10/30
+- Introduction of NetOpsCoding
+  - [Slide](https://www.slideshare.net/taijitsuchiya5/introduction-to-netopscoding)
+
+
 
 ## 2014
 - [初めての人のためのインターネットルーティング](https://www.nic.ad.jp/iw2014/program/t04/)(Internet Routing for Beginner) at [Internet Week 2014](https://www.nic.ad.jp/iw2014/), 2014/11/19)
