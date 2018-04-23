@@ -2,6 +2,15 @@
 Taiji Tsuchiya's Presentations
 
 ## 2018
+
+## [JANOG41.5 Interim Meeting](https://janog.connpass.com/event/82865/), 2018/4/20
+- JANOG42ハッカソン予告/JANOG42 Hackathon announcement
+  - [Slide](https://speakerdeck.com/taijijiji/janog42-hatukason-yu-gao)
+
+### NCC( Community of Power Company related ISP) meetup #9 / 第九回NCC(電力系ISP)情報交換会, 2018/4/12-13
+- 明日からはじめるネットワーク運用自動化 実践編 / Let's get started Network Automation from tomorrow! Practicing Part
+  - [Slide](https://speakerdeck.com/taijijiji/ming-ri-karahazimerunetutowakuyun-yong-zi-dong-hua-shi-jian-bian)
+
 ### [JANOG41 Meeting](https://www.janog.gr.jp/meeting/janog41/), 2018/1/24-26
 - [明日からはじめるネットワーク運用自動化](https://www.janog.gr.jp/meeting/janog41/program/auto) / [Let's get started Network Automation from tomorrow!](https://www.janog.gr.jp/meeting/janog41/en/program/auto)
   - [Slide](https://speakerdeck.com/taijijiji/lets-get-started-network-automation-from-tomorrow)
@@ -24,24 +33,21 @@ Taiji Tsuchiya's Presentations
 ### [NetOpsCoding#3](https://atnd.org/events/78025), 2016/6/27
 - Introduction of NetOpsCoding
   - [Slide](https://www.slideshare.net/taijitsuchiya5/introduction-to-netopscoding3)
-- ネットワーク運用自動化の実際 ~現場で使われているツールを調査してみた~ / Survey tools and methods for Network Automation
+- ネットワーク運用自動化の実際 現場で使われているツールを調査してみた / Survey tools and methods for Network Automation
   - [Slide](https://www.slideshare.net/taijitsuchiya5/ss-63478739)
 
 ### [NetOpsCoding#2](https://atnd.org/events/74772), 2016/3/4
 - Introduction of NetOpsCoding
   - [Slide](https://www.slideshare.net/taijitsuchiya5/introduction-to-netopscoding2)
 
-### The class of Doshina University, 2016/1/6
+### The class in Doshina University, 2016/1/6
 - インターネットの舞台裏 / Back stage of the internet
   - [Slide](https://www.slideshare.net/taijitsuchiya5/ss-56728468)
-
 
 ## 2015
 ### [NetOpsCoding#1](https://atnd.org/events/74772), 2015/10/30
 - Introduction of NetOpsCoding
   - [Slide](https://www.slideshare.net/taijitsuchiya5/introduction-to-netopscoding)
-
-
 
 ## 2014
 - [初めての人のためのインターネットルーティング](https://www.nic.ad.jp/iw2014/program/t04/)(Internet Routing for Beginner) at [Internet Week 2014](https://www.nic.ad.jp/iw2014/), 2014/11/19)
