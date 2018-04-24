@@ -7,7 +7,7 @@ Taiji Tsuchiya's Presentations
   - [Slide](https://speakerdeck.com/taijijiji/janog42-hatukason-yu-gao)
 
 ## NCC meetup #9 / 第9回NCC情報交換会, 2018/4/12-13
-- 明日からはじめるネットワーク運用自動化 実践編 / Let's get started Network Automation from tomorrow! Practice Part
+- 明日からはじめるネットワーク運用自動化 実践編 / Let's get started Network Automation from tomorrow! Practice Edition
   - [Slide](https://speakerdeck.com/taijijiji/ming-ri-karahazimerunetutowakuyun-yong-zi-dong-hua-shi-jian-bian)
 
 ## [JANOG41](https://www.janog.gr.jp/meeting/janog41/), 2018/1/24-26
@@ -19,7 +19,7 @@ Taiji Tsuchiya's Presentations
 - ネットワーク運用自動化BoF / Network Automation BoF
   - [Agenda](https://www.janog.gr.jp/meeting/janog41/bof/netopscoding)
 
-- 明日からはじめるネットワーク運用自動化 始動編 / Let's get started Network Automation from tomorrow! Bootstrap
+- 明日からはじめるネットワーク運用自動化 始動編 / Let's get started Network Automation from tomorrow! Bootstrap Edition
   - [Agenda](https://www.janog.gr.jp/meeting/janog41/program/autoprep) 
   - [Slide](https://www.janog.gr.jp/meeting/janog41/application/files/1715/1572/1618/janog41-autoprep-taiji-03.pdf)
   - [Movie](https://cisco.webex.com/ciscosales-jp/lsr.php?RCID=98385bb3c72e44b1b5226aee6155e676) ( Password: PupU6EN6 )
@@ -73,7 +73,7 @@ Taiji Tsuchiya's Presentations
   - [Slide](https://www.slideshare.net/wakamonog/ss-48528202?ref=https://wakamonog.connpass.com/event/14726/presentation/) 
 
 ## Whitebox Switch User Meeting#1, 2015/5/12
-- なぜネットワーク自動化が進まないのか whitebox switch編 / Why is it difficult to automate network automation: Whitebox Switch version
+- なぜネットワーク自動化が進まないのか whitebox switch編 / Why is it difficult to automate network automation Whitebox Switch Edition
   - [Slide](https://www.slideshare.net/taijitsuchiya5/whitebox-switch-48099814)
 
 ## wakamonog x ssmjp, 2015/4/24
@@ -87,7 +87,7 @@ Taiji Tsuchiya's Presentations
 ## [wakamonog 7](https://wakamonog.connpass.com/event/11099/), 2015/1/30
 - Introduction of wakamonog
   - [Slide](https://www.slideshare.net/wakamonog/wakamonog7-career-tsuchiya?ref=https://wakamonog.connpass.com/event/11099/presentation/)
-- エンジニアのキャリアパスを考える ネットワークエンジニア編 / Carerr Selection of Network Engineer
+- エンジニアのキャリアパスを考える ネットワークエンジニア編 / Discusion about Career Path of Network Engineer
   - [Slide](https://www.slideshare.net/wakamonog/wakamonog7-career-tsuchiya?ref=https://wakamonog.connpass.com/event/11099/presentation/)
 
 ## JANOG35, 2015/1/15
