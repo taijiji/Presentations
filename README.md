@@ -1,6 +1,10 @@
 # Presentations
 Taiji Tsuchiya's Presentations
 
+## JANOG42, 2018/7/11
+- JANOG42 Hackathon
+  - [Agenda](https://www.janog.gr.jp/meeting/janog42/program/HAC)
+  
 ## JANOG41.5, 2018/4/20
 - JANOG42ハッカソン予告 / JANOG42 Hackathon announcement
   - [Agenda](https://janog.connpass.com/event/82865/))
