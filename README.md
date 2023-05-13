@@ -3,7 +3,7 @@ Taiji Tsuchiya's Presentations
 
 ## JANOG51.5, 2023/4/14
 - すべての新人にむけた「インターネットチュートリアルLIVE」やります。
-  - [Agenda](https://janog.connpass.com/event/277129/)
+  - [Slides](https://www.janog.gr.jp/meeting/janog51.5/doc/janog51.5-taiji-lt-post.pdf)
 
 ## JANOG51, 2023/1/25
 - どうやってつくる？ ネットワーク自動化開発チーム
