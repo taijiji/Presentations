@@ -1,9 +1,43 @@
 # Presentations
 Taiji Tsuchiya's Presentations
 
+# JANOG51, 2023/1/25
+- どうやってつくる？ ネットワーク自動化開発チーム
+  - [Agenda](https://www.janog.gr.jp/meeting/janog51/devteam/) 
+- ここがヘンだよ日本人の英語コミュニケーション 〜日本人特有の落とし穴を知り、グローバル社会でも活躍できるエンジニアになろう〜
+  - [Agenda](https://www.janog.gr.jp/meeting/janog51/english/) 
+
+## JANOG48, 2021/7/15
+- EyeballとCDNの幸せなトラフィックエンジニアリング
+  - [Agenda](https://www.janog.gr.jp/meeting/janog48/eyeball/)
+- ネットワークエンジニアの未来の働き方を考えてみよう
+  - [Agenda](https://www.janog.gr.jp/meeting/janog48/engineer/)
+
+## JANOG47, 2021/1/27
+- ネットワークエンジニア x YouTuber への挑戦 ～エンジニアスキルを副業化するための選択肢～
+  - [Agenda](https://www.janog.gr.jp/meeting/janog47/sbbof/)
+
+## JANOG46, 2020/8/28
+- Hiring in Japan
+  - [Agenda](https://docs.google.com/spreadsheets/d/1ld1fWoOXp1Wn9-mOTIk4xxuvGSl_rkkEnTFsm_0Mslo/edit#gid=0)
+
+## JANOG45, 2020/1/23
+- 急成長を支えるFastlyスケーラブル・グローバルネットワーク
+  - [Agenda](https://www.janog.gr.jp/meeting/janog45/program/scalable/)
+
+## JANOG44, 2019/7/24
+- JANOG44 ハッカソン Wrap-up & Winner
+  - [Agenda](https://www.janog.gr.jp/meeting/janog44/program/hackwin/)
+
+## JANOG43, 2019/1/23
+- ネットワーク運用を楽にするチュートリアル
+  - [Agenda](https://www.janog.gr.jp/meeting/janog43/program/auto/)
+- JANOG43 ハッカソン Wrap-up & Winner
+  - [Agenda](https://www.janog.gr.jp/meeting/janog43/program/hackwin/) 
+
 ## JANOG42, 2018/7/11
-- JANOG42 Hackathon
-  - [Agenda](https://www.janog.gr.jp/meeting/janog42/program/HAC)
+- JANOG42 ハッカソン Wrap-up & Winner
+  - [Agenda](https://www.janog.gr.jp/meeting/janog42/program/janog42-wrap-winner)
   
 ## JANOG41.5, 2018/4/20
 - JANOG42ハッカソン予告 / JANOG42 Hackathon announcement
