@@ -1,6 +1,14 @@
 # Presentations
 Taiji Tsuchiya's Presentations
 
+## JANOG53, 2024/1/18
+- エンジニアのキャリアパス古今東西　～エンジニアが経営に参加してみたら見えるようになった世界～
+  - [Agenda](https://www.janog.gr.jp/meeting/janog53/cxo/)
+
+## JANOG52, 2023/7/5
+- 新人のためのインターネット&ネットワーク超入門
+  - [Agenda](https://www.janog.gr.jp/meeting/janog52/tutorial/)
+
 ## JANOG51.5, 2023/4/14
 - すべての新人にむけた「インターネットチュートリアルLIVE」やります。
   - [Slides](https://www.janog.gr.jp/meeting/janog51.5/doc/janog51.5-taiji-lt-post.pdf)
